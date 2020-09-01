@@ -35,7 +35,7 @@ This script uses the SQLite DB from the [dict.cc Android App](https://play.googl
 
 The simplest way to get this DB, is to download the app, then download the dictionary in the app.
 The DB will be downloaded to the cc.dict.dictcc folder on your phone.
-Only copy the file to the same folder, where the script is located and rename the DB to "dict.db"
+Only copy the file to the same folder, where the script is located and rename the DB to "dict.cc.db"
 
 There is also a way to directly download the db, but this could be not allowed by dict.cc
 
