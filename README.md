@@ -1,4 +1,4 @@
-# dict.cc.offilne.py
+# dict.cc.offline.py
 
 cmd line dict for the android SQLite db from dict.cc written in python3
 
@@ -17,7 +17,7 @@ e> means english search
 
 Simply enter e or d to change the search direction
 
-Use tab (also double tap) to get auto completion like in the shell. But be patient, the takes a second to generate the suggestions.
+Use tab (also double tap) to get auto completion like in the shell. But be patient, it takes a second to generate the suggestions.
 
 Use CTRL + C to exit the script.
 
